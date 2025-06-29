@@ -58,7 +58,7 @@ const tiers = [
 
 export default function Pricing() {
   return (
-    <div id="pricing" className="py-24 sm:py-32">
+    <div id="pricing" className="py-12 sm:py-16">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl sm:text-center">
           <motion.div

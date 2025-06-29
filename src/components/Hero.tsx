@@ -5,7 +5,7 @@ import { BoltIcon } from '@heroicons/react/24/solid'
 
 export default function Hero() {
   return (
-    <div className="relative isolate pt-14">
+    <div className="relative isolate pt-24 sm:pt-32">
       <div className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80">
         <div
           className="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-purple-600 to-pink-600 opacity-20 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
@@ -15,7 +15,7 @@ export default function Hero() {
           }}
         />
       </div>
-      <div className="py-24 sm:py-32 lg:pb-40">
+      <div className="py-12 sm:py-16 lg:pb-20">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center">
             <motion.div

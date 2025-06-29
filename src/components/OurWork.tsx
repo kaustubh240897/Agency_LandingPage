@@ -44,7 +44,7 @@ export default function OurWork() {
   const project = projects[currentIndex]
 
   return (
-    <div id="our-work" className="py-24 sm:py-32">
+    <div id="our-work" className="py-12 sm:py-16">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:text-center">
           <motion.div
