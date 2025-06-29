@@ -7,25 +7,25 @@ const projects = [
   {
     title: 'Waykel',
     description: 'On demand commercial vehicle booking',
-    image: './waykal.webp',
+    image: '/waykal.webp',
     tags: ['Next.js', 'Node.js','Docker', 'MongoDB'],
   },
   {
     title: 'Owlminds',
     description: 'An Edtech platform for kids to learn.',
-    image: './owlmind.webp',
+    image: '/owlmind.webp',
     tags: ['Next.js', 'Postgres SQL', 'Python Django', 'AWS'],
   },
   {
     title: 'Owlminds Dashboard',
     description: "An User's dashboard for track events and performance.",
-    image: './dashboard.webp',
+    image: '/dashboard.webp',
     tags: ['NextJs', 'Python Django', 'Postgres SQL', 'AWS'],
   },
   {
     title: 'rBarbo',
     description: 'Barber shop Appointment Booking Mobile App',
-    image: './barber.webp',
+    image: '/barber.webp',
     tags: ['React Native', 'Tailwind CSS', 'OAuth', 'PostgreSQL'],
   },
 ]
