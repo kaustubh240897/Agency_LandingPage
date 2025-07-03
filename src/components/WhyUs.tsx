@@ -16,7 +16,7 @@ const features = [
   },
   {
     name: 'Modern Tech Stack',
-    description: 'Built with the latest technologies like NextJs, React Native, NodeJs, Generative AI, Postgres. Ensuring Seamless, Scalable performance and future proof MVP development.',
+    description: 'Built with the latest technologies like NextJs, React Native, NodeJs, AI, LLMs,  Postgres. Ensuring Seamless, Scalable performance and future proof MVP development.',
     icon: CodeBracketIcon,
   },
   {
