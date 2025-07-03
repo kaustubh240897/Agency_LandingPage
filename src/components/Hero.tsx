@@ -26,7 +26,7 @@ export default function Hero() {
               <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
                 Transform Your Ideas into{' '}
                 <span className="bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
-                  Digital Reality in 28 days
+                  Digital Reality in 15 days
                   <BoltIcon className="inline-block h-10 w-10 text-yellow-400 ml-2 align-middle animate-pulse drop-shadow-[0_0_10px_rgba(251,191,36,0.6)]" aria-label="Lightning" />
                 </span>
               </h1>
@@ -34,7 +34,7 @@ export default function Hero() {
                 We help businesses bring their ideas to life very fast. Specializing in modern web apps, mobile apps, and custom solutions, we empower you to validate your concept quickly and gain a crucial market advantage.
               </p>
               <h2 className="mt-4 text-2xl font-bold tracking-tight text-white sm:text-4xl">
-                BUILD FAST, VALIDATE FAST
+              AI-Driven Development — Build Fast, Validate Even Faster
               </h2>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <Link

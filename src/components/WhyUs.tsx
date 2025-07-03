@@ -11,7 +11,7 @@ const features = [
   {
     name: 'Rapid Development',
     description:
-      'From idea to MVP in weeks, not months. Our rapid development cycle helps you validate your concept quickly and gain a critical first-mover advantage that keeps you ahead in market.',
+      'From idea to MVP in 15 days, not months. Our rapid development cycle helps you validate your concept quickly and gain a critical first-mover advantage that keeps you ahead in market.',
     icon: RocketLaunchIcon,
   },
   {
@@ -48,7 +48,7 @@ export default function WhyUs() {
               Move Fast at Startup Speed
             </p>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-              We combine technical expertise with business acumen to deliver solutions that drive real results.
+            We combine deep technical expertise with sharp business insight to deliver cutting-edge AI solutions that drive real results—fast.
             </p>
           </motion.div>
         </div>
