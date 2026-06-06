@@ -9,7 +9,7 @@ const tiers = [
     price: { monthly: '$999' },
     description: 'Perfect for startups or Individuals looking to validate their idea.',
     features: [
-      'MVP Development in 15 days',
+      'MVP Development in 25 days',
       'Responsive Design',
       'Core Features Implementation',
       'Basic Analytics',
@@ -26,7 +26,7 @@ const tiers = [
     description: 'Perfect for founders who need validate their Ideas with expert guidance and comprehensive support to build their product.',
     features: [
       'All features of Starter +',
-      'MVP Development in 15 days',
+      'MVP Development in 25 days',
       '2 Months of Support',
       'Performance Optimization',
       'Continuous Updates',

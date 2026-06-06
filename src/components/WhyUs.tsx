@@ -11,7 +11,7 @@ const features = [
   {
     name: 'Rapid Development',
     description:
-      'From idea to MVP in 15 days, not months. Our rapid development cycle helps you validate your concept quickly and gain a critical first-mover advantage that keeps you ahead in market.',
+      'From idea to MVP in 25 days, not months. Our rapid development cycle helps you validate your concept quickly and gain a critical first-mover advantage that keeps you ahead in market.',
     icon: RocketLaunchIcon,
   },
   {

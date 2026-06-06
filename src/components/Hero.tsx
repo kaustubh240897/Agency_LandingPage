@@ -26,7 +26,7 @@ export default function Hero() {
               <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
                 Transform Your Ideas into{' '}
                 <span className="bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
-                  Digital Reality in 15 days
+                  Digital Reality in 25 days
                   <BoltIcon className="inline-block h-10 w-10 text-yellow-400 ml-2 align-middle animate-pulse drop-shadow-[0_0_10px_rgba(251,191,36,0.6)]" aria-label="Lightning" />
                 </span>
               </h1>
