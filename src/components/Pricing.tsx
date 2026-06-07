@@ -9,7 +9,8 @@ const tiers = [
     price: { monthly: '$999' },
     description: 'Perfect for startups or Individuals looking to validate their idea.',
     features: [
-      'MVP Development in 25 days',
+      'MVP Development in 28 days',
+      'Low-Medium complexity MVP',
       'Responsive Design',
       'Core Features Implementation',
       'Basic Analytics',
@@ -26,8 +27,8 @@ const tiers = [
     description: 'Perfect for founders who need validate their Ideas with expert guidance and comprehensive support to build their product.',
     features: [
       'All features of Starter +',
-      'MVP Development in 25 days',
-      '2 Months of Support',
+      'Medium-Hard Complexity MVP',
+      '1 Months of Support',
       'Performance Optimization',
       'Continuous Updates',
       'Custom Integrations',
@@ -39,11 +40,12 @@ const tiers = [
   {
     name: 'Recurring Plan',
     id: 'tier-enterprise',
-    price: { monthly: '$1499' },
+    price: { monthly: '$1799' },
     description: 'Recurring payment for MVP development',
     features: [
       'Min 100 hrs of development per month',
       'Custom Software development',
+      'Hard-Advanced Complexity MVP',
       'Enterprise Architecture',
       'Advanced Security',
       'Scalable Infrastructure',
